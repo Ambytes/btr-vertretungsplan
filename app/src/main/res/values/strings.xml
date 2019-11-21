@@ -1,0 +1,32 @@
+<resources>
+    <string name="settings_activity">Einstellungen</string>
+    <string name="main_activity">Vertretungsplan</string>
+    <string name="login_activity">BTR</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_user">This username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">Username or password is incorrect</string>
+    <string name="error_server_unavailable">Server unavailable</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_sign_in_failed">Failed to sign in.</string>
+    <string name="edit_text_search">Suche..</string>
+    <string name="no_warranty_hint">Dies ist keine offizielle App des Berufskollegs Technik Remscheid. Alle Angaben sind ohne Gewähr für Aktualität, Richtigkeit und Vollständigkeit.\n\nDie Logindaten bleiben verschlüsselt auf deinem Gerät und werden direkt an den Schulserver gesendet.</string>
+    <string name="receive_notifications">Benachrichtigungen erhalten</string>
+    <string name="choose_time">Uhrzeit wählen</string>
+    <string name="button_save_settings">Speichern</string>
+    <string name="shortage_hint">Schulklasse/Lehrerkürzel..</string>
+    <string name="notification_username">Allgemeiner Accountname</string>
+    <string name="notification_password">Allgemeines Passwort</string>
+    <string name="about">Über..</string>
+    <string name="settings">Einstellungen</string>
+    <string name="BTR">BTR</string>
+    <string name="notifications_hint">Bitte gib Accountdaten ein, welche unverschlüsselt gespeichert werden können. Die Accountdaten werden zum Empfang von Notifications benötigt.</string>
+    <string name="authenticate_with_fingerprint">Login mit Fingerabdruck</string>
+    <string name="fingerprint_sign_in">Sign in</string>
+    <string name="fingerprint_register">Register</string>
+</resources>
